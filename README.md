@@ -21,7 +21,7 @@
 
 <a id="sobre"></a>
 
-## :recycle: Sobre Projeto Proffy
+## :purple_heart: Sobre o Projeto Proffy
 
 <strong>Proffy</strong> é um projeto de desenvolvimento <strong>fullstack</strong> (API REST + Web front-end + Mobile). Trata-se de uma aplicação para cadastrar e encontrar aulas/professores.
 
@@ -67,7 +67,7 @@ Principais bibliotecas utilizadas:
   # Em cada uma das pastas (server, web e mobile)
   $ npm install (ou yarn)
 
-  # Criar e popular o banco de dados
+  # Criar o banco de dados
   $ cd server
   $ npm run knex:migrate (ou yarn knex:migrate)
 
